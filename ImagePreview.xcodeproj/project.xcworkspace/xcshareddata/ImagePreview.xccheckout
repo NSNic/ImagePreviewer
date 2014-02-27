@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4E16AA20-AE26-4215-9A3E-9E4FA719DE58</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ImagePreview</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>62BBB792-B733-420D-B1B1-C42CFAC0D10A</key>
+		<string>ssh://github.com/NSNic/ImagePreviewer.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ImagePreview.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>62BBB792-B733-420D-B1B1-C42CFAC0D10A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/NSNic/ImagePreviewer.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>62BBB792-B733-420D-B1B1-C42CFAC0D10A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>62BBB792-B733-420D-B1B1-C42CFAC0D10A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ImagePreview</string>
+		</dict>
+	</array>
+</dict>
+</plist>
